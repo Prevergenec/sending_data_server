@@ -1,0 +1,19 @@
+.form {
+    margin: 200px auto 0;
+    text-align: center;
+}       
+
+.normal, .btn {
+    width: 300px;
+    height: 40px;
+    padding: 10px;
+}
+
+.btn:hover {
+    cursor: pointer;
+}
+
+.mess {
+    color: red;
+    margin: 20px;
+}
